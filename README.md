@@ -1,3 +1,29 @@
-# Exercise Tracker
+**Overview**
 
-This is the boilerplate for the Exercise Tracker project. Instructions for building your project can be found at https://www.freecodecamp.org/learn/apis-and-microservices/apis-and-microservices-projects/exercise-tracker
+A web application for tracking exercises and fitness goals.
+
+**Features**
+
+    • Add user profiles
+    • Log exercises with date, duration, and description
+    • Retrieve exercise logs for users
+
+**Setup Instructions**
+
+_Clone the repository:_
+
+    git clone https://github.com/magwach/boilerplate-project-exercisetracker.git  
+    
+_Install dependencies:_
+
+    npm install  
+    
+_Run the application:_
+
+    npm start  
+    
+**Technologies**
+
+    • Node.js
+    • Express
+    • MongoDB
